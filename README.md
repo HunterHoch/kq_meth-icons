@@ -18,7 +18,7 @@ Icons for KuzQuality Meth (and compatible FiveM/QBCore servers). Each icon is de
 
 ## Ingredients
 <img width="100" height="100" alt="kq_acetone" src="https://github.com/user-attachments/assets/78021841-984f-47ef-b54e-cad8bc6c4ebf" />
-<img width="100" height="100" alt="kq_ammonia" src="https://github.com/user-attachments/assets/4fbf288b-8cb2-4498-a77d-93e425c4059e" />
+<img width="100" height="100" alt="kq_ammonia" src="https://github.com/user-attachments/assets/cb3ed22a-8433-4299-8360-bde456b7304d" />
 <img width="100" height="100" alt="kq_ethanol" src="https://github.com/user-attachments/assets/520edbdd-e132-4e89-97b9-dafb5b890e06" />
 <img width="100" height="100" alt="kq_lithium" src="https://github.com/user-attachments/assets/1d68da72-ddfe-4e79-9305-e98860f55aea" />
 <img width="100" height="100" alt="kq_meth_pills" src="https://github.com/user-attachments/assets/3a57f520-31ae-4147-9886-f489eef86edb" />
